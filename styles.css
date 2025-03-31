@@ -17,6 +17,11 @@ header {
     font-weight: bold;
 }
 
+/* Navigation Menu */
+.navbar {
+    margin-bottom: 20px;
+}
+
 /* Container */
 .container {
     width: 90%;
